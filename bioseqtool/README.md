@@ -1,8 +1,3 @@
----
-output:
-  pdf_document: default
-  html_document: default
----
 # BioSeqTool
 
 A simple yet powerful DNA sequence analysis toolkit written in Java.
@@ -89,3 +84,4 @@ Users can modify or replace this sequence to test additional features or validat
 - Integrate an optional graphical interface  
 
 ---
+
